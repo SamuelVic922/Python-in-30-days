@@ -1,0 +1,13 @@
+{
+    "highscore": 0,
+    "questions": [
+  {"question": "What is 17 x 12?", "answer": "204"},
+  {"question": "Who was the first man to walk on the moon?", "answer": "Neil Armstrong"},
+  {"question": "In which year did World War II end?", "answer": "1945"},
+  {"question": "In economics, what does GDP stand for?", "answer": "Gross Domestic Product"},
+  {"question": "The Haber process is used to produce which compound?", "answer": "Ammonia (NH₃)"},
+  {"question": "If a news article is heavily biased, which critical thinking skill should you apply first to judge its accuracy?", "answer": "Source evaluation"},
+  {"question": "Which country is nicknamed The Land of the Rising Sun?", "answer": "Japan"},
+  {"question": "Which philosopher wrote The Republic?", "answer": "Plato"}
+]
+}

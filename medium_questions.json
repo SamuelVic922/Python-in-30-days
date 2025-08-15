@@ -1,0 +1,37 @@
+{
+  "highscore": 5,
+  "questions": [
+    {
+      "question": "What is 25 + 17?",
+      "answer": "42"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "Simplify: 3(x + 4) - 2",
+      "answer": "3x + 10"
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "answer": "Na"
+    },
+    {
+      "question": "If 2y - 5 = 11, find y.",
+      "answer": "y = 8"
+    },
+    {
+      "question": "Which law states that pressure is inversely proportional to volume for a fixed mass of gas at constant temperature?",
+      "answer": "Boyle's Law"
+    },
+    {
+      "question": "If sin A = 0.6, find A in degrees (to 1 decimal place).",
+      "answer": " 36.9"
+    }
+  ]
+}

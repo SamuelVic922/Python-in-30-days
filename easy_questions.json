@@ -1,0 +1,37 @@
+{
+  "highscore": 8,
+  "questions": [
+    {
+      "question": "What is 5 + 3?",
+      "answer": "8"
+    },
+    {
+      "question": "If you have 12 apples and you give 4 away, how many are left?",
+      "answer": "8"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "If it is 3 PM in Nigeria, what time is it in a country 2 hours ahead?",
+      "answer": "5 PM"
+    },
+    {
+      "question": "Which gas do humans breathe in to stay alive?",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What force keeps us on the ground?",
+      "answer": "Gravity"
+    },
+    {
+      "question": "What is the plural of child?",
+      "answer": "Children"
+    },
+    {
+      "question": "Fill in the blank: The cat is ___ the table. (options: on, in)",
+      "answer": "on"
+    }
+  ]
+}
